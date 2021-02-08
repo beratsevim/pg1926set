@@ -1,0 +1,50 @@
+body{
+    background: whitesmoke;
+}
+h1{
+    color:black;
+    font-family: sans-serif;
+    text-align: center;
+    font-size: 4em;
+    text-transform: uppercase;
+}
+table{
+    margin: auto;
+    border:20px solid rgb(156, 20, 20);
+    border-spacing: 5px;
+}
+table td{
+    width: 75px;
+    height: 75px;
+    background: #fcfcfc;
+    font-size:3em;
+    line-height: 75px;
+    text-align:center;
+    border:2px solid #000000;
+}
+.siyah{
+    background: #718093;
+    
+}
+
+span{
+        position: relative;
+        top: -60px;
+        margin: auto;
+        text-align: center;
+        font-size: 25px;
+        line-height: 75px;
+} 
+.harfler{
+vertical-align: bottom;
+}
+u{
+    position: relative;
+    text-align: center;
+    top: -90px;
+    left: -55px;
+    font-size: 25px;
+    line-height: 75px;
+}
+
+
